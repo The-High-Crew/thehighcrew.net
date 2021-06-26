@@ -23,7 +23,6 @@ ___
             alt="license"></a>
     <a href="#">
         <img src="https://img.shields.io/github/contributors/The-High-Crew/TheHighCrew.net?logo=github&style=for-the-badge"  alt="contributors"/></a>
-    <a href='https://coveralls.io/github/The-High-Crew/thehighcrew.net?branch=main'><img src='https://coveralls.io/repos/github/The-High-Crew/thehighcrew.net/badge.svg?branch=main' alt='Coverage Status' /></a>
 </p>
 
 ___
