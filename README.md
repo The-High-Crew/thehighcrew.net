@@ -23,7 +23,6 @@ ___
             alt="license"></a>
     <a href="#">
         <img src="https://img.shields.io/github/contributors/The-High-Crew/TheHighCrew.net?logo=github&style=for-the-badge"  alt="contributors"/></a>
-
 </p>
 
 ___
