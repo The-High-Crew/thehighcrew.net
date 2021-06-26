@@ -1,1 +1,7 @@
 .idea
+/admin/api/*
+/admin/aws/*
+/admin/config/*
+/admin/database/*
+/admin/env/*
+/admin/json/*
