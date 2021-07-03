@@ -144,7 +144,7 @@ document.querySelector(".settings .settingsHandle").onclick = () => {
 };
 
 document.querySelectorAll(".tgl").forEach(button => {
-    if (button.id == "cbDarkMode") {
+    if (button.id === "cbDarkMode") {
         button.onchange = element => {
             const link = document.querySelector("link.theme");
             if (element.srcElement.checked) {

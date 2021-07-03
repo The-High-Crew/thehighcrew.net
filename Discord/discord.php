@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>SionHub</title>
-    <link href="../components/icons/sion-net-globe.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="../misc/logo/sion-net-globe.ico" rel="shortcut icon" type="image/x-icon">
     <link rel="stylesheet" href="css/discord.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
         <div class="sion">Sion Development</div>
 
         <div class="join">
-            <a href="https://discordapp.com/" class="join--link" target='_blank'>Join here: <img src="../components/icons/sion-net-globe.ico" width="50px" alt="" /></a>
+            <a href="https://discordapp.com/" class="join--link" target='_blank'>Join here: <img src="../misc/logo/sion-net-globe.ico" width="50px" alt="" /></a>
         </div>
     </div>
     <div class="channels">
