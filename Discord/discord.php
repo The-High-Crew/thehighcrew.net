@@ -19,7 +19,7 @@
         <div class="sion">Sion Development</div>
 
         <div class="join">
-            <a href="https://discordapp.com/" class="join--link" target='_blank'>Join here: <img src="../misc/logo/Logo.png" width="50px" alt="" /></a>
+            <a href="https://discord.gg/he9JEByAGt" class="join--link" target='_blank'>Join here: <img src="../misc/logo/Logo.png" width="50px" alt="" /></a>
         </div>
     </div>
     <div class="channels">
