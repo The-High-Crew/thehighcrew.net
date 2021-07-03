@@ -85,7 +85,7 @@
             <a href="#test2" class="test2" transform="17"
             >test 2</a
             >
-            <a href="#test3" class="test3" transform="29">Github</a>
+            <a href="#test3" class="test3" transform="29">test 3</a>
         </div>
         <a
                 class="currentSection"
@@ -98,12 +98,12 @@
         </a>
         <div class="linkBox">
             <a href="#test4" class="test4" transform="63.5"
-            >Development Tools</a
+            >test 4</a
             >
             <a href="#test5" class="test5" transform="77"
-            >Current Projects</a
+            >test 5</a
             >
-            <a href="#test6" class="test6" transform="88">Idea</a>
+            <a href="#test6" class="test6" transform="88">test 6</a>
         </div>
     </nav>
     <section id="test1">

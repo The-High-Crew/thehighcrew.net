@@ -10,7 +10,7 @@ let options = {
 
 const title = {
     header: "TheHighCrew",
-    "test1": "does this work",
+    "test1": "do it work",
     "test2": "ah yes it does",
     "test3": "or does it",
     "test4": "ig it does",
