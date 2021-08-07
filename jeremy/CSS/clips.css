@@ -3,5 +3,8 @@ body, html {
     background: #222222;
 }
 clips {
-    alignment: center;
+    position: center;
+    padding: 5px;
+    border: #222222;
+    border-width: 3px;
 }
