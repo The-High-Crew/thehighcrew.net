@@ -6,5 +6,5 @@ clips {
     position: center;
     padding: 5px;
     border: #222222;
-    border-width: 3px;
+    display:block;
 }
