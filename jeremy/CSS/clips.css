@@ -2,9 +2,15 @@ body, html {
     color: #222222;
     background: #222222;
 }
+
+div, clips {
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #111111;
+}
+
 clips {
-    position: center;
-    padding: 5px;
-    border: #222222;
-    display:block;
+    display: block;
+    border-style:none;
 }
