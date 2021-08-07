@@ -4,13 +4,7 @@ body, html {
 }
 
 div, clips {
-    width: 100px;
-    height: 50px;
-    margin: 0 auto;
+    border: 2px;
+    border: #222222;
     background-color: #111111;
-}
-
-clips {
-    display: block;
-    border-style:none;
 }
