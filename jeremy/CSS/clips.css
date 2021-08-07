@@ -1,10 +1,11 @@
 body, html {
-    color: #222222;
-    background: #222222;
+    background: #111111;
 }
 
-div, clips {
-    border: 2px;
-    border: #222222;
-    background-color: #111111;
+clips {
+    border: 2px #222222;
+}
+infoclips {
+    border: 5px #222222;
+
 }
