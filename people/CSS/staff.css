@@ -32,7 +32,7 @@ body, html {
 }
 .container {
     padding: 0 16px;
-    color: #1591fd;
+    color: #0069c0;
     background: #222222;
     border-radius: 10px;
 }
@@ -44,7 +44,7 @@ body, html {
     border-radius: 10px;
 }
 .title {
-    color: #67b8ff;
+    color: #0069c0;
     background: #222222;
 }
 .button {
@@ -92,10 +92,10 @@ body, html {
 }
 .info-text {
     font-size: xx-large;
-    color: #67b8ff;
+    color: #0069c0;
 }
 a {
-    color: #67b8ff;
+    color: #0069c0;
     text-decoration: none;
 }
 

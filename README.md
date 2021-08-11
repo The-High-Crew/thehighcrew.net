@@ -10,6 +10,9 @@ ___
     <a href="#">
         <img src="https://img.shields.io/badge/Maintainer-Death0328-b6061e?style=for-the-badge"
             alt="Total alerts"/></a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Maintainer-KaitoDarksnow-0069c0?style=for-the-badge"
+            alt="Total alerts"/></a>
 </p>
 
 ___
