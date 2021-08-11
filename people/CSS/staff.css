@@ -1,7 +1,15 @@
 body, html {
     background: #111111;
+    overflow: scroll;
+    overflow-x: hidden;
 }
-/* Three columns side by side */
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
 .column {
     float: left;
     width: 30%;
@@ -10,41 +18,31 @@ body, html {
     margin-left: 10px;
 
 }
-
-/* Display the columns below each other instead of side by side on small screens */
 @media screen and (max-width: 650px) {
     .column {
         width: 100%;
         display: block;
     }
 }
-
-/* Add some shadows to create a card effect */
 .card {
     background: #222222;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-
-/* Some left and right padding inside the container */
 .container {
     padding: 0 16px;
     color: #1591fd;
     background: #222222;
 }
-
-/* Clear floats */
 .container::after, .row::after {
     content: "";
     clear: both;
     display: table;
     background: #222222;
 }
-
 .title {
     color: #67b8ff;
     background: #222222;
 }
-
 .button {
     border: none;
     outline: 0;
@@ -56,11 +54,9 @@ body, html {
     cursor: pointer;
     width: 100%;
 }
-
 .button:hover {
     background-color: #555;
 }
-
 .boxMA {
     margin: auto;
     width: 50%;
@@ -68,7 +64,6 @@ body, html {
     padding: 10px;
     text-align: center;
 }
-
 .boxDE {
     margin: auto;
     width: 50%;
@@ -76,7 +71,6 @@ body, html {
     padding: 10px;
     text-align: center;
 }
-
 .boxMO {
     margin: auto;
     width: 50%;
@@ -84,12 +78,10 @@ body, html {
     padding: 10px;
     text-align: center;
 }
-
 .info-text {
     font-size: xx-large;
     color: #67b8ff;
 }
-
 a {
     color: #67b8ff;
     text-decoration: none;
