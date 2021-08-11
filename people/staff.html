@@ -5,8 +5,14 @@
     <title>THC Staff</title>
     <link href="CSS/staff.css" rel="stylesheet">
     <link href="../misc/logo/Logo.png" rel="shortcut icon" type="image/x-icon">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <link href="../CSS/navbar.css" rel="stylesheet">
 </head>
 <body>
+<!--Navigation bar-->
+<div id="nav-placeholder">
+</div>
+<!--end of Navigation bar-->
 <div class="founder">
 
 </div>
@@ -25,7 +31,7 @@
                     <p class="title">Founder &amp; Community Manager</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -39,7 +45,7 @@
                     <p class="title">Founder &amp; Lead Developer</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -53,7 +59,7 @@
                     <p class="title">Lead Designer</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -67,7 +73,7 @@
                     <p class="title">Lead Moderator</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -81,7 +87,7 @@
                     <p class="title">Lead Support</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -95,7 +101,7 @@
                     <p class="title">Lead Advisor</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -121,7 +127,7 @@
                     <p class="title">Fullstack Developer</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -135,7 +141,7 @@
                     <p class="title">Fullstack Developer</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -149,7 +155,7 @@
                     <p class="title">Consultant</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -175,7 +181,7 @@
                     <p class="title">Moderator</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -189,7 +195,7 @@
                     <p class="title">Moderator</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
@@ -203,13 +209,17 @@
                     <p class="title">Moderator</p>
                     <p>Some text here.</p>
                     <p>
-                        <button class="button">Contact</button>
+                        <button class="button"><a href="#">profile</a></button>
                     </p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
 </body>
+<script>
+        $(function(){
+        $("#nav-placeholder").load("../navbar.html");
+    });
+</script>
 </html>

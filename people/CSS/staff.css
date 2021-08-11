@@ -89,3 +89,8 @@ body, html {
     font-size: xx-large;
     color: #67b8ff;
 }
+
+a {
+    color: #67b8ff;
+    text-decoration: none;
+}
