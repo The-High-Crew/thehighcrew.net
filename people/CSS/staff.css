@@ -83,6 +83,13 @@ body, html {
     padding: 10px;
     text-align: center;
 }
+.boxTEST {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #703800;
+    padding: 10px;
+    text-align: center;
+}
 .info-text {
     font-size: xx-large;
     color: #67b8ff;
@@ -90,4 +97,14 @@ body, html {
 a {
     color: #67b8ff;
     text-decoration: none;
+}
+
+.PFP {
+    border-radius: 50%;
+    overflow: hidden;
+    border: 5px solid #000;
+    width: 100%;
+    height: auto;
+    background-image: url('https://thehighcrew.net/misc/img/jeremy.png');
+    background-size: cover;
 }
