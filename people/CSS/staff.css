@@ -2,6 +2,7 @@ body, html {
     background: #111111;
     overflow: scroll;
     overflow-x: hidden;
+    scrollbar-width: none;  /* Firefox */
 }
 ::-webkit-scrollbar {
     width: 0;
