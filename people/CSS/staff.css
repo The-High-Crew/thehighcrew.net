@@ -61,10 +61,26 @@ body, html {
     background-color: #555;
 }
 
-.box {
+.boxMA {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    border: 3px solid #2b0080;
+    padding: 10px;
+    text-align: center;
+}
+
+.boxDE {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #4f0000;
+    padding: 10px;
+    text-align: center;
+}
+
+.boxMO {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #6ba200;
     padding: 10px;
     text-align: center;
 }
