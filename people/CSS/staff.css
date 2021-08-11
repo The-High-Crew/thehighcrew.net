@@ -28,17 +28,20 @@ body, html {
 .card {
     background: #222222;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
 }
 .container {
     padding: 0 16px;
     color: #1591fd;
     background: #222222;
+    border-radius: 10px;
 }
 .container::after, .row::after {
     content: "";
     clear: both;
     display: table;
     background: #222222;
+    border-radius: 10px;
 }
 .title {
     color: #67b8ff;
@@ -50,10 +53,11 @@ body, html {
     display: inline-block;
     padding: 8px;
     color: white;
-    background-color: #000;
+    background-color: #111111;
     text-align: center;
     cursor: pointer;
     width: 100%;
+    border-radius: 50px;
 }
 .button:hover {
     background-color: #555;
