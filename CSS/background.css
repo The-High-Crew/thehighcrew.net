@@ -1,0 +1,16 @@
+body, html {
+    background: #111111;
+    overflow: scroll;
+    overflow-x: hidden;
+    scrollbar-width: none;
+    color: #0069c0;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}

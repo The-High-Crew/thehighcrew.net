@@ -5,6 +5,7 @@
     <title>TheHighCrew.net</title>
     <link href="../misc/logo/Logo.png" rel="shortcut icon" type="image/x-icon">
     <link rel="stylesheet" href="css/discord.css">
+    <script data-ad-client="ca-pub-6222384348035713" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body>
 <div class="wrap">

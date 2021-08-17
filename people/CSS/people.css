@@ -1,0 +1,11 @@
+.boxJZ {
+    margin: auto;
+    width: 90%;
+    border: 3px solid #b600bb;
+    padding: 10px;
+    text-align: center;
+}
+
+.activeJZ {
+    background-color: #b600bb;
+}
