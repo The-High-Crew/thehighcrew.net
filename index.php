@@ -1,12 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>TheHighCrew</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" href="/misc/logo/Logo.png" />
-    <script data-ad-client="ca-pub-6222384348035713" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<body>
-</body>
-</html>
+<!doctype html>
+<title>Site Maintenance</title>
+<style>
+    body { text-align: center; padding: 150px; }
+    h1 { font-size: 50px; }
+    body { font: 20px Helvetica, sans-serif; color: #333; }
+    article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+    a { color: #dc8100; text-decoration: none; }
+    a:hover { color: #333; text-decoration: none; }
+</style>
+
+<article>
+    <h1>Website is currently under construction!</h1>
+    <div>
+        <p>Sorry for the inconvenience but we&rsquo;re creating the website. If you need to you can always <a href="mailto:support@siondevelopment.xyz">contact us</a>, otherwise we&rsquo;ll be online soon!</p>
+        <p>&mdash; The High Crew Development Team</p>
+    </div>
+</article>
